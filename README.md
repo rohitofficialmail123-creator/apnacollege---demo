@@ -1,3 +1,3 @@
 # apnacollege---demo
 My first git repo
-Author -- Rohit Yeduru
+Author -- Rohit Yeduru (learning git)
